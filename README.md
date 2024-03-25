@@ -15,8 +15,9 @@ Nós iteramos pelo array (nums), tentando colocar cada número na sua posição 
 Se um número já está em seu lugar correto ou não se encaixa no nosso array (números negativos ou muito grandes), seguimos adiante.
 Após reordenar, fazemos outra passagem pelo array para encontrar a primeira posição onde os números não se alinham com seus índices, o que nos diz o menor número positivo ausente.
 Se todos os números estão presentes e corretamente posicionados, o número que falta é apenas um a mais do que o comprimento do array.
-Como Executar o Programa
-Configuração: Certifique-se de ter o Java instalado em seu computador.
+
+*Como Executar o Programa
+*Configuração: Certifique-se de ter o Java instalado em seu computador.
 Salvar o Código: Copie o código para um arquivo chamado Solution.java.
 Compilar: Abra seu terminal ou prompt de comando, navegue até o diretório contendo Solution.java, e execute javac Solution.java.
 Executar: Rode o programa com java Solution.
